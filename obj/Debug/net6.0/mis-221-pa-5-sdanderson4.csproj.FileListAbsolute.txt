@@ -1,0 +1,15 @@
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/bin/Debug/net6.0/mis-221-pa-5-sdanderson4
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/bin/Debug/net6.0/mis-221-pa-5-sdanderson4.deps.json
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/bin/Debug/net6.0/mis-221-pa-5-sdanderson4.runtimeconfig.json
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/bin/Debug/net6.0/mis-221-pa-5-sdanderson4.dll
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/bin/Debug/net6.0/mis-221-pa-5-sdanderson4.pdb
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/mis-221-pa-5-sdanderson4.csproj.AssemblyReference.cache
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/mis-221-pa-5-sdanderson4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/mis-221-pa-5-sdanderson4.AssemblyInfoInputs.cache
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/mis-221-pa-5-sdanderson4.AssemblyInfo.cs
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/mis-221-pa-5-sdanderson4.csproj.CoreCompileInputs.cache
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/mis-221-pa-5-sdanderson4.dll
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/refint/mis-221-pa-5-sdanderson4.dll
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/mis-221-pa-5-sdanderson4.pdb
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/mis-221-pa-5-sdanderson4.genruntimeconfig.cache
+/Users/davidanderson/Desktop/Code/mis-221-pa-5-sdanderson4/obj/Debug/net6.0/ref/mis-221-pa-5-sdanderson4.dll
